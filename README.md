@@ -20,8 +20,8 @@
 - 🎷 Saxophone & Music
 
 ### My Favorite Languages:
-- 🏎️ Swift
-- 🐍 Python
+- Swift
+- Python
 
 ### Open to Collaboration and Opportunities
 For project collaboration or job opportunities, connect with me through the channels listed below.
