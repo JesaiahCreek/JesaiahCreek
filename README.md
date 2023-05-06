@@ -28,4 +28,4 @@ For project collaboration or job opportunities, connect with me through the chan
 
 - [LinkedIn](https://www.linkedin.com/in/jesaiahcreek/)
 - [Twitter](https://twitter.com/JesaiahCreek)
-- Email: jesaiahcreek@gmail.com
+- jesaiahcreek@gmail.com
