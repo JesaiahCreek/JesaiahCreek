@@ -26,6 +26,6 @@
 ### Open to Collaboration and Opportunities
 For project collaboration or job opportunities, connect with me through the channels listed below.
 
-- LinkedIn: [Jesaiah Creek](https://www.linkedin.com/in/jesaiahcreek/)
-- Twitter: [@JesaiahCreek](https://twitter.com/JesaiahCreek)
+- [LinkedIn](https://www.linkedin.com/in/jesaiahcreek/)
+- [Twitter](https://twitter.com/JesaiahCreek)
 - Email: jesaiahcreek@gmail.com
