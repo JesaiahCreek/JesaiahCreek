@@ -1,4 +1,4 @@
-### Hey 👋, I'm Jesaiah
+ ## Hey 👋, I'm Jesaiah
 
 ---
 
@@ -14,10 +14,10 @@
 ---
 
 ### My Interests:
-- 💻 Programming
-- 🧠 Artificial Intelligence
-- 🚀 Space Exploration
-- 🎷 Saxophone & Music
+- Programming
+- Artificial Intelligence
+- Space Exploration
+- Saxophone & Music
 
 ### My Favorite Languages:
 - Swift
