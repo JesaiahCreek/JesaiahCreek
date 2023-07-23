@@ -24,7 +24,7 @@
 - Python
 
 ### Open to Collaboration and Opportunities
-For project collaboration or job opportunities, connect with me through the channels listed below.
+For project collaboration or job opportunities, connect with me through the channels below.
 
 - [LinkedIn](https://www.linkedin.com/in/jesaiahcreek/) (@JesaiahCreek)
 - [Twitter](https://twitter.com/JesaiahCreek) (@JesaiahCreek)
