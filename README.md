@@ -27,5 +27,5 @@
 For project collaboration or job opportunities, connect with me through the channels below.
 
 - [LinkedIn](https://www.linkedin.com/in/jesaiahcreek/) (@JesaiahCreek)
-- [Twitter](https://twitter.com/JesaiahCreek) (@JesaiahCreek)
+- [𝕏 (Twitter)](https://twitter.com/JesaiahCreek) (@JesaiahCreek)
 - jesaiahcreek@gmail.com
