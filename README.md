@@ -19,8 +19,8 @@
 - A **self-landing** model rocket (in-progress).
 
 ### My Interests:
-- Artificial Intelligence
 - Space Exploration
+- Artificial Intelligence
 - Saxophone & Music
 
 ### My Favorite Languages:
