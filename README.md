@@ -15,7 +15,7 @@
 
 ### My Projects:
 - **SaxApp**, a way for anyone to learn how to play the saxophone using just their iPad.
-- **Kwazi**A **quantum-safe** message transfer program using simulated **quantum key distribution**.
+- **Kwazi**, a **quantum-safe** message transfer program using simulated **quantum key distribution**.
 - A **self-landing** model rocket (in-progress).
 
 ### My Interests:
