@@ -16,7 +16,7 @@
 ### My Projects:
 - **SaxApp**, a way for anyone to learn how to play the saxophone using just their iPad.
 - A **Quantum-safe** message transfer program using simulated **quantum key distribution**.
-- A **self-landing** model rocket (in-progress)
+- A **self-landing** model rocket (in-progress).
 
 ### My Interests:
 - Programming
